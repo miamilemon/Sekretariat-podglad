@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Czytamy</string>
+    <string name="link_input">Wpisz link</string>
+    <string name="search_input">Wpisz fraze do wyszukania</string>
+    <string name="load_button">Wczytaj z linku</string>
+    <string name="search_button">Wyszukaj</string>
+    <string name="gridview_default">Tutaj pojawią się dane</string>
+
+</resources>
