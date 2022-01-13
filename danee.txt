@@ -1,0 +1,6 @@
+14,What,Beczkowski,Mickiewicz,Głądek,Janina,Józef,01.01.0001 00:00:00,12345678910,mężczyzna,1ai-T5,kółko teatralne
+15,Adam,Jacek,Mickiewicz,Głądecki,Janina,Józef,01.01.0001 00:00:00,12345678910,mężczyzna,1ai-T5,kółko filmowe
+16,Janek,Franek,Stajkowski,Stajkowski,Krysia,Zdzisław,15.01.2022 00:00:00,1234542773,mężczyzna,1bi,2
+17,Francisław,Wielki,Fajny,Fajny,Marzena,Lucysław,05.01.2022 00:00:00,136143717,kobieta,2gg,7
+18,Adam,Lista,Jedzenie,Jedzenie,Marzena,Lucysław,03.01.2022 00:00:00,13513613,kobieta,4th,3
+19,Zbigniew,Zbigniewski,Stajgenbauer,Stajgenbauer,Alfred,Ewa,05.10.2021 00:00:00,1412415613,mężczyzna,1pr,1
